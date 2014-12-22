@@ -1,0 +1,15 @@
+scout_password_reset:
+    resource: "@ScoutEventPasswordResetBundle/Resources/config/routing.yml"
+    prefix:   /
+
+scout_event_management:
+    resource: "@ScoutEventManagementBundle/Resources/config/routing.yml"
+    prefix:   /
+
+scout_data:
+    resource: "@ScoutEventDataBundle/Resources/config/routing.yml"
+    prefix:   /
+
+scout_base:
+    resource: "@ScoutEventBaseBundle/Resources/config/routing.yml"
+    prefix:   /
