@@ -17,6 +17,19 @@
                     "type": "file"
                 }
             }
+        },
+        {
+            "type" : "vcs",
+            "url" : "https://github.com/ScoutEvent/BaseBundle.git"
+        }, {
+            "type" : "vcs",
+            "url" : "https://github.com/ScoutEvent/PasswordResetBundle.git"
+        }, {
+            "type" : "vcs",
+            "url" : "https://github.com/ScoutEvent/DataBundle.git"
+        }, {
+            "type" : "vcs",
+            "url" : "https://github.com/ScoutEvent/ManagementBundle.git"
         }
     ],
     "require": {
